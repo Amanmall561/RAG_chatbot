@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+langchain
+langchain-google-genai
+langchain-community
+langgraph
+chromadb
+pymupdf
+duckduckgo-search
+pydantic
+python-dotenv
+python-multipart
+numexpr
